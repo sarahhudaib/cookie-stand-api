@@ -26,3 +26,5 @@ Template Project for starting up CRUD API with Django Rest Framework
 
 ## sarah-cookies-api 
 https://sarah-cookies-api.herokuapp.com/admin/
+USERNAME: sarah
+PASS: 1234
